@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dreamcatcher</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="title_register_account">Register Account</string>
+    <string name="welcome_home_user">Welcome, %s!</string>
+    <string name="button_view_dreams">View Dreams</string>
+    <string name="button_add_new_dream">Add New Dream</string>
+    <string name="button_user_menu">User Menu</string>
+    <string name="button_logout">Logout</string>
+    <string name="title_new_dream">New Dream</string>
+    <string name="hint_dream_title">Dream Title</string>
+    <string name="hint_dream_description">Dream Description</string>
+    <string name="button_save_dream">Save Dream</string>
+    <string name="title_existing_dreams">My Dreams</string>
+    <string name="no_dreams_message">No dreams recorded yet. Add a new dream!</string>
+    <string name="title_user_menu">User Settings</string>
+    <string name="button_change_email">Change Email</string>
+    <string name="button_change_password">Change Password</string>
+    <string name="button_change_avatar">Change Avatar</string>
+    <string name="button_delete_account">Delete Account</string>
+    <string name="title_change_email">Change Email</string>
+    <string name="hint_current_email">Current Email</string>
+    <string name="hint_new_email">New Email</string>
+    <string name="button_save_changes">Save Changes</string>
+    <string name="title_change_password">Change Password</string>
+    <string name="hint_current_password">Current Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="hint_confirm_new_password">Confirm New Password</string>
+    <string name="title_change_avatar">Change Avatar</string>
+    <string name="button_select_image">Select Image</string>
+    <string name="button_upload_image">Upload Image</string>
+    <string name="title_delete_account">Delete Account</string>
+    <string name="warning_delete_account">Warning: Deleting your account is irreversible. All your dreams and data will be permanently lost.</string>
+    <string name="hint_confirm_password_delete">Enter password to confirm</string>
+    <string name="button_confirm_delete">Confirm Delete</string>
+    <string name="title_dream_details">Dream Details</string>
+    <string name="button_edit_dream">Edit Dream</string>
+    <string name="button_delete_dream">Delete Dream</string>
+    <string name="registration_successful">Registration successful!</string>
+    <string name="registration_failed">Registration failed: %s</string>
+    <string name="network_error">Network error: %s</string>
+    <string name="login_successful">Login successful!</string>
+    <string name="login_failed">Login failed: %s</string>
+</resources>
+
+
+
+
+
+
+
